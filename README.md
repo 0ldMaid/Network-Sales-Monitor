@@ -13,4 +13,4 @@ You are a normal Fulfilled by Amazon user. You send your products to Amazon and 
 You have a company with reasonable resources and IT skills. You have a product that has high sales volume and you are currently selling these products using an online sales manager. You have come up with a plan to automate your selling procedure and reduce costs. But unfortunately the selling platform you are using doesn't have any upgradability or customization. THIS SYSTEM WAS MADE FOR YOU*
 
 # Application
-The application is 100% Java and currently has the ability to connect to Amazon, eBay, Magento, Etsy, and PayPal.
+The application is 100% Java and currently has the ability to connect to Amazon, eBay, Magento, Etsy, and PayPal. The application can export sales data to CSV and quickbooks. And build shipping labels using Dazzle. 
