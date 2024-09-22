@@ -22,7 +22,7 @@ LINK WILL GO HERE*
 Or you can download the .zip archive from this repository and run the application yourself. Make sure you include the EXT folder in your JRE or the application won't run.
 
 There are no special commands or requirments beside the EXT folder. So after downloading the files the main class "nm" should run with minimal effort. 
-
+"C:\nm\jre8-64\bin\javaw.exe nm" 
 
 
 
