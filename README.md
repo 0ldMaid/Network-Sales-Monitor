@@ -14,3 +14,6 @@ You have a company with reasonable resources and IT skills. You have a product t
 
 # Application
 The application is 100% Java and currently has the ability to connect to Amazon, eBay, Magento, Etsy, and PayPal. The application can export sales data to CSV and quickbooks. And build shipping labels using Dazzle. 
+
+# Installation
+For testing purposes you can use the Windows .exe installation file to install everything automatically. Or you can download the .zip archive from this repository and run the application yourself. Make sure you incude the EXT folder in your JRE or the application won't run. 
