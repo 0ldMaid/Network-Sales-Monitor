@@ -1,0 +1,10 @@
+!ENDTRNS																																																										
+TRNS	2	CASH SALE	<!--Java_CFA[0]-->	PayPal Account	eBay		<!--Java_CFA[12]-->	<!--Java_CFA[12]-->		N	N	Y	<!--Java_CFA[1]-->	<!--Java_CFA[13]--> <!--Java_CFA[14]-->	<!--Java_CFA[15]-->, <!--Java_CFA[16]-->	<!--Java_CFA[17]-->, <!--Java_CFA[18]--> <!--Java_CFA[19]-->	<!--Java_CFA[20]-->	<!--Java_CFA[0]-->		N	PayPal		<!--Java_CFA[0]-->																N	N																		
+SPL	3	CASH SALE	<!--Java_CFA[0]-->	Merchandise Sales			-<!--Java_CFA[5]-->		<!--Java_CFA[4]-->	N	-<!--Java_CFA[8]-->	<!--Java_CFA[22]-->	<!--Java_CFA[2]-->		Y	N	NOTHING																																									
+SPL	4	CASH SALE	<!--Java_CFA[0]-->	Shipping(in)			-<!--Java_CFA[9]-->			N	-1	<!--Java_CFA[9]-->	Shipping(in)		N	N	NOTHING																																									
+SPL	5	CASH SALE	<!--Java_CFA[0]-->	Shipping(out)			<!--Java_CFA[10]-->		Tracking# <!--Java_CFA[25]-->	N	-1	<!--Java_CFA[10]-->	Shipping(out)		N	N	NOTHING																																									
+SPL	6	CASH SALE	<!--Java_CFA[0]-->	Handling			-<!--Java_CFA[11]-->			N	-1	<!--Java_CFA[11]-->	Handling		N	N	NOTHING																																									
+SPL	7	CASH SALE	<!--Java_CFA[0]-->	Paypal(fees)			<!--Java_CFA[6]-->			N	-1	<!--Java_CFA[6]-->	paypal(fees)		N	N	NOTHING																																									
+SPL	8	CASH SALE	<!--Java_CFA[0]-->	eBay(fees)			<!--Java_CFA[7]-->			N	-1	<!--Java_CFA[7]-->	ebay(fees)		N	N	NOTHING																																									
+SPL	9	CASH SALE	<!--Java_CFA[0]-->	Sales Tax Payable	TaxAgencyVendor		-<!--Java_CFA[21]-->	<!--Java_CFA[12]-->		N		6.00%	Sales Tax		N	N	NOTHING							AUTOSTAX																																		
+ENDTRNS																																																										
