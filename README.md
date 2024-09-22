@@ -1,4 +1,4 @@
-# Fully programmable eBay Amazon sales system.
+# Fully programmable eBay Amazon sales platform.
 
 
 # Network-Sales-Monitor
