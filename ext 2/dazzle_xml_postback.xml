@@ -1,0 +1,32 @@
+<DAZzle Layout="C:\Program Files (x86)\Alchemist\hardwiredforsound\alchemist_dazzle_us.lyt" OutputFile="C:\Program Files (x86)\Alchemist\hardwiredforsound\dazzle_xml_postback.xml" Start="PRINTING" Test="NO" Prompt="NO" AutoClose="YES" PartnerID="ALCHEMIST">
+<Package ID="1">
+<MailClass>PRIORITY</MailClass>
+<PackageType>FLATRATEPADDEDENVELOPE</PackageType>
+<ToName>roselyn lagda </ToName>
+<ToAddress1>1155 WAWONA ST APT 9</ToAddress1>
+<ToCity>MANTECA </ToCity>
+<ToState>CA</ToState>
+<ToPostalCode>95337-6055</ToPostalCode>
+<ToCountry>United States</ToCountry>
+<WeightOz>16</WeightOz>
+<Description1>Behringer BUC400 Ultimate Bass Chorus Effects Pedal</Description1>
+<CustomsQuantity1>1</CustomsQuantity1>
+<CustomsDescription1>Behringer BUC400 Ultimate Bass Chorus Effects Pedal</CustomsDescription1>
+<CustomsWeight1>16</CustomsWeight1>
+<CustomsValue1>14.00</CustomsValue1>
+<CustomsCountry1>UNITED STATES</CustomsCountry1>
+<RubberStamp1>1</RubberStamp1>
+<RubberStamp2>[Behringer] BUC400</RubberStamp2>
+<RubberStamp3>220971294780</RubberStamp3>
+<ToZIP4>6055</ToZIP4>
+<ToDeliveryPoint>09</ToDeliveryPoint>
+<ToCarrierRoute>C022</ToCarrierRoute>
+<ToReturnCode>31</ToReturnCode>
+<PIC>9405510200830388425791</PIC>
+<FinalPostage>5.10</FinalPostage>
+<TransactionID>506</TransactionID>
+<TransactionDateTime>20120510143927</TransactionDateTime>
+<PostmarkDate>20120510</PostmarkDate>
+<Status>Success</Status>
+</Package>
+</DAZzle>

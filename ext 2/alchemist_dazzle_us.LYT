@@ -1,0 +1,175 @@
+[Media]
+Type=Label
+TypeOption0=6
+TypeOption1=3211
+TypeOption2=0
+TypeOption3=0
+Width= 4.500
+Height= 8.500
+Margin Top=2500
+Margin Left=0
+Margin Right=0
+Margin Bottom=0
+
+[Layout]
+Insignia=2
+ParcelType=3
+PrintPostage=YES
+Oversize=NO
+Rotate180=NO
+IBIP=YES
+IndiciaAlignLeft=NO
+WeightInMils=160
+Permit ID=Permit No. 1223
+Permit City=San Francisco, CA
+Permit Type=
+Rounded=NO
+Background=
+ZOrder=0 1 2 3 4 5 6 7 8 9 10 11      
+SpecialServices=512
+EMSignatureWaiver=YES
+EMWeekendDelivery=YES
+EMHolidayDelivery=YES
+GEMReturnToSender=YES
+IndiciaKeyLine=NO
+ReplyPostage=NO
+OversizeRate=NO
+NonMachinable=NO
+BalloonRate=NO
+eBayPostback=NO
+OpenAndDistribute=NO
+MailClassEnclosed=
+EVSLabel=NO
+EVSEnroute=NO
+MRLPermitNumber=
+MRLPermitCity=LAS VEGAS  NV 89118
+MRLCompanyName=WAREHOUSE LAS VEGAS ATT: HWFS
+MRLCompanyAddress=4050 W SUNSET RD STE H
+Insurance=0
+DeclaredValue=0
+
+[BarCode]
+Type=None
+Position=Below
+Spacing=Normal
+FIM=None
+Carrier Route=None
+International=NO
+IMBArtworkBarcodeID=00
+IMBArtworkSpecialServices=
+IMBArtworkMailerID=
+IMBArtworkSequenceNo=000000000
+
+[Addressee]
+ZIPCode=
+Delivery Point=
+Carrier Route=C001
+Return Code=
+Country=
+PosX= 1.050
+PosY= 5.500
+InsigniaX= 0.425
+InsigniaY= 0.350
+DeliveryConfirmX= 0.560
+DeliveryConfirmY= 3.909
+Align=Left
+Vertical Align=Top
+Center Vertically=NO
+Center Horizontally=NO
+Address Font 1=Arial|Regular|11|0|34|0|0|0|0|400|0
+Address Font 2=Arial|Regular|11|0|34|0|0|0|0|400|0
+Address Font 3=Arial|Regular|12|0|34|0|0|0|0|700|0
+Address Font 4=Arial|Regular|11|0|34|0|0|0|0|400|0
+Address Font 5=Arial|Regular|11|0|34|0|0|0|0|400|0
+Address Font 6=Arial|Regular|11|0|34|0|0|0|0|400|0
+Address Font 7=Arial|Regular|11|0|34|0|0|0|0|400|0
+Use LineSpacing=NO
+LineSpacing=18
+1=DOUBLE-CLICK HERE
+2=TO ENTER THE
+3=SHIP TO ADDRESS
+Is Adjusted=YES
+Use Concatenated=YES
+RDCx= 0.610
+RDCy= 2.010
+Is Dymo Label Modified=NO
+
+[ReturnAddress]
+1=SHIPPING AND RECEIVING
+2=WAREHOUSE LAS VEGAS ATT: HWFS
+Use LineSpacing=NO
+LineSpacing=12
+PosX= 0.450
+PosY= 4.700
+Align=Left
+Return Font 1=Arial|Regular|9|0|18|0|0|0|0|400|0
+Return Font 2=Arial|Regular|9|0|18|0|0|0|0|400|0
+Return Font 3=Arial|Regular|9|0|18|0|0|0|0|400|0
+Return Font 4=Arial|Regular|9|0|18|0|0|0|0|400|0
+Return Font 5=Arial|Regular|9|0|18|0|0|0|0|400|0
+Return Font 6=Arial|Regular|9|0|18|0|0|0|0|400|0
+Return Font 7=Arial|Regular|9|0|18|0|0|0|0|400|0
+ReturnAddZIP=89118-6801
+ReturnAddDP=99
+ReturnAddRC=
+ReturnAddCountry=
+3=4050 W SUNSET RD STE H
+4=LAS VEGAS , NV 89118-6801
+
+[Graphics]
+Graphic0=C:\USERS\BLACK\DOCUMENTS\ENDICIA\DAZZLE\SCANME.GIF|5| 0.35| 0.31|58
+
+[Printer]
+PaperBin=4
+PaperSize=1
+Orientation=Portrait
+Feed First=Left
+Face Up=YES
+Media Position=Left
+Envelope Position=Left
+Offset from Top= 0.000
+Offset from Left= 0.000
+User Defined Width= 0.000
+User Defined Height= 0.000
+Device=Adobe PDF ALCHEMIST
+Port=
+High Speed Printing=NO
+
+[BRM]
+Style=Box
+Align=Center
+Gap= 1.000
+LineThickness=1
+PointSize=20
+FaceName=Arial
+FaceStyle=Regular
+CharacterWeight=400
+CharacterSet=1
+PitchAndFamily=0
+PaidBy=ADDRESSEE
+
+[Datatech]
+UseOverlay=NO
+Bands=NO
+Band1Top= 0.000
+Band2Top= 1.500
+[Stickers]
+Sticker0=Rubber Stamp 1| 0.35| 1.63|Arial|Regular|12|0|0|0|0|0|0|400|1|1|0|1|1|0|0|1|0|0
+Sticker1=Rubber Stamp 2| 0.35| 1.79|Arial|Regular|12|0|0|0|0|0|0|400|1|2|0|1|1|0|0|1|0|0
+[Text Box 000]
+Text=
+[Text Box 001]
+Text=
+TopOffset=1605
+LeftOffset=372
+Align=Left
+Font 1=Arial|Regular|12|0|0|0|0|0|0|400|0
+Font 2=Arial|Regular|12|0|0|0|0|0|0|400|0
+Font 3=Arial|Regular|12|0|0|0|0|0|0|400|0
+Font 4=Arial|Regular|12|0|0|0|0|0|0|400|0
+Font 5=Arial|Regular|12|0|0|0|0|0|0|400|0
+Font 6=Arial|Regular|12|0|0|0|0|0|0|400|0
+Font 7=Arial|Regular|12|0|0|0|0|0|0|400|0
+Font 8=Arial|Regular|12|0|0|0|0|0|0|400|0
+Font 9=Arial|Regular|12|0|0|0|0|0|0|400|0
+Font 10=Arial|Regular|12|0|0|0|0|0|0|400|0

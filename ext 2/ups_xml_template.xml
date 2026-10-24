@@ -1,0 +1,41 @@
+<OpenShipments xmlns="x-schema:OpenShipments.xdr">
+<OpenShipment ShipmentOption="SC" ProcessStatus="">
+<ShipTo>
+<CustomerID />
+<CompanyOrName><![CDATA[Ken Lasso]]></CompanyOrName>
+<Address1><![CDATA[322 N Van Buren St]]></Address1>
+<Address2><![CDATA[]]></Address2>
+<CountryTerritory><![CDATA[]]></CountryTerritory>
+<PostalCode>22046</PostalCode>
+<CityOrTown><![CDATA[Falls Church]]></CityOrTown>
+<StateProvinceCounty>VA</StateProvinceCounty>
+<Telephone></Telephone>
+<FaxNumber />
+<EmailAddress><![CDATA[rfband@hotmail.com]]></EmailAddress>
+<TaxIDNumber />
+<ResidentialIndicator>1</ResidentialIndicator>
+</ShipTo>
+<ShipmentInformation>
+<VoidIndicator />
+<ServiceType></ServiceType>
+<NumberOfPackages>1</NumberOfPackages>
+<DescriptionOfGoods><![CDATA[Sennheiser GA 3 Rack Mount Adapter]]></DescriptionOfGoods>
+<DocumentOnly />
+<BillingOption>PP</BillingOption>
+</ShipmentInformation>
+<Package>
+<PackageType></PackageType>
+<Weight>1</Weight>
+<Reference1>12353</Reference1>
+<Reference2></Reference2>
+<Reference3></Reference3>
+<DeclaredValue>
+<Amount>39.95</Amount>
+</DeclaredValue>
+<Length>5</Length>
+<Width>5</Width>
+<Height>10</Height>
+<MerchandiseDescription><![CDATA[Sennheiser GA 3 Rack Mount Adapter]]></MerchandiseDescription>
+</Package>
+</OpenShipment>
+</OpenShipments>

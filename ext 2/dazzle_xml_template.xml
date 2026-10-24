@@ -1,0 +1,22 @@
+<DAZzle Layout="[[layout_template]]" OutputFile="[[postback_template]]" Start="PRINTING" Test="NO" Prompt="NO" AutoClose="YES" PartnerID="ALCHEMIST">
+<Package ID="1">
+<MailClass>[[mail_type]]</MailClass>
+<PackageType>[[custom_3]]</PackageType>
+<ToName>[[buyers_first_name]] [[buyers_last_name]]</ToName>
+<ToAddress1>[[address_1]]</ToAddress1>
+<ToCity>[[address_2]]</ToCity>
+<ToState>[[address_3]]</ToState>
+<ToPostalCode>[[address_4]]</ToPostalCode>
+<ToCountry>[[address_5]]</ToCountry>
+<WeightOz>[[item_weight]]</WeightOz>
+<Description1>[[title]]</Description1>
+<CustomsQuantity1>[[quantity_sold]]</CustomsQuantity1>
+<CustomsDescription1>[[title]]</CustomsDescription1>
+<CustomsWeight1>[[item_weight]]</CustomsWeight1>
+<CustomsValue1>14.00</CustomsValue1>
+<CustomsCountry1>UNITED STATES</CustomsCountry1>
+<RubberStamp1>[[quantity_sold]]</RubberStamp1>
+<RubberStamp2>[[part_number]]</RubberStamp2>
+<RubberStamp3>[[listing_id]]</RubberStamp3>
+</Package>
+</DAZzle>

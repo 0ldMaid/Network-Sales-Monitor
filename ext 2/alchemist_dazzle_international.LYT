@@ -1,0 +1,128 @@
+[Media]
+Type=Label
+TypeOption0=6
+TypeOption1=3225
+TypeOption2=0
+TypeOption3=0
+Width= 8.500
+Height= 5.500
+Margin Top=0
+Margin Left=0
+Margin Right=0
+Margin Bottom=0
+
+[Layout]
+Insignia=30
+ParcelType=3
+PrintPostage=YES
+Oversize=NO
+SpecialServices=0
+Rotate180=NO
+IBIP=YES
+IndiciaAlignLeft=NO
+IndiciaKeyLine=NO
+WeightInMils=80
+Permit ID=
+Permit City=
+Permit Type=
+Rounded=NO
+Background=
+ZOrder=0 1 2 3 4 5 6 7                                                                
+ReplyPostage=NO
+EMSignatureWaiver=NO
+EMWeekendDelivery=NO
+EMHolidayDelivery=NO
+GEMReturnToSender=NO
+GAPPReturnToSender=NO
+
+[BarCode]
+Type=None
+Position=Below
+Spacing=Normal
+FIM=None
+Carrier Route=None
+International=NO
+
+[Addressee]
+1=TEST GB
+2=7 CHALTON HOUSE
+3=TEMPLE STREET
+4=PORTSMOUTH  HANTS  PO1 1ED
+ZIPCode=00144103
+Delivery Point=
+Carrier Route=
+Return Code=
+Country=GREAT BRITAIN AND NORTHERN IRELAND
+PosX= 2.500
+PosY= 1.400
+InsigniaX= 0.500
+InsigniaY= 0.300
+DeliveryConfirmX= 1.950
+DeliveryConfirmY= 0.800
+Align=Left
+Vertical Align=Top
+Center Vertically=NO
+Center Horizontally=NO
+Address Font 1=Arial|Regular|8|0|34|0|0|0|0|400|0
+Address Font 2=Arial|Regular|8|0|34|0|0|0|0|400|0
+Address Font 3=Arial|Regular|8|0|34|0|0|0|0|400|0
+Address Font 4=Arial|Regular|8|0|34|0|0|0|0|400|0
+Address Font 5=Arial|Regular|8|0|34|0|0|0|0|400|0
+Address Font 6=Arial|Regular|8|0|34|0|0|0|0|400|0
+Address Font 7=Arial|Regular|8|0|34|0|0|0|0|400|0
+Use LineSpacing=NO
+LineSpacing=8
+5=GREAT BRITAIN AND NORTHERN IRELAND
+
+[ReturnAddress]
+1=Double-click here to enter
+2=your return address.
+Use LineSpacing=NO
+LineSpacing=8
+PosX= 0.350
+PosY= 1.400
+Align=Left
+Return Font 1=Arial|Regular|8|0|34|0|0|0|0|400|0
+Return Font 2=Arial|Regular|8|0|34|0|0|0|0|400|0
+Return Font 3=Arial|Regular|8|0|34|0|0|0|0|400|0
+Return Font 4=Arial|Regular|8|0|34|0|0|0|0|400|0
+Return Font 5=Arial|Regular|8|0|34|0|0|0|0|400|0
+Return Font 6=Arial|Regular|8|0|34|0|0|0|0|400|0
+Return Font 7=Arial|Regular|8|0|34|0|0|0|0|400|0
+ReturnAddZIP=
+ReturnAddDP=
+ReturnAddRC=
+ReturnAddCountry=
+
+[Printer]
+PaperBin=15
+PaperSize=1
+Orientation=Portrait
+Feed First=Right
+Face Up=YES
+Media Position=Right
+Envelope Position=Left
+Offset from Top= 0.000
+Offset from Left= 0.000
+User Defined Width= 0.000
+User Defined Height= 0.000
+
+[BRM]
+Style=Box
+Align=Center
+Gap= 1.000
+LineThickness=1
+PointSize=20
+FaceName=Arial
+FaceStyle=Regular
+CharacterWeight=400
+CharacterSet=1
+PitchAndFamily=0
+PaidBy=ADDRESSEE
+[Datatech]
+UseOverlay=NO
+Bands=NO
+Band1Top= 0.000
+Band2Top= 1.500
+[Stickers]
+Sticker0=
